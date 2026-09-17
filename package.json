@@ -1,0 +1,10 @@
+{
+  "name": "han-website",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Workshop website for han — served on :3000, live at https://han.sdai.nl",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  }
+}
